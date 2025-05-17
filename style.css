@@ -1104,7 +1104,6 @@ footer {
     overflow: hidden;
 }
 
-
 @keyframes glow {
     from {
         box-shadow: 0 0 5px #00d4ff, 0 0 10px #00d4ff;
